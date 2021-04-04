@@ -18,5 +18,10 @@
     "name": "say.hello",
     "type": "java.lang.String",
     "description": "A description for 'say.hello'"
+  },
+  {
+    "name": "platform.database.commitinterfal",
+    "type": "java.lang.String",
+    "description": "A description for 'platform.database.commitinterfal'"
   }
 ]}
